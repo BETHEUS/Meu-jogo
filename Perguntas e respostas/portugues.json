@@ -1,0 +1,89 @@
+{
+    "questoes_portugues": [
+      {
+        "numero": 1,
+        "enunciado": "Compreensão e Interpretação de Textos\nLeia o texto a seguir e responda a questão:\n\"O fenômeno da chuva é essencial para a manutenção da vida na Terra. Além de prover a água necessária para a sobrevivência de plantas, animais e seres humanos, contribui significativamente para a regulação climática global.\"\nO texto lido é principalmente:",
+        "alternativas": {
+          "a": "Descritivo.",
+          "b": "Narrativo.",
+          "c": "Injuntivo.",
+          "d": "Argumentativo.",
+          "e": "Expositivo."
+        },
+        "resposta_correta": "e"
+      },
+      {
+        "numero": 2,
+        "enunciado": "Recursos de Textualidade\nA coesão textual pode ser alcançada por meio de diferentes recursos. Qual das alternativas a seguir NÃO é considerada um recurso coesivo?",
+        "alternativas": {
+          "a": "Conjunções.",
+          "b": "Sinônimos.",
+          "c": "Antônimos.",
+          "d": "Citações.",
+          "e": "Pronomes."
+        },
+        "resposta_correta": "d"
+      },
+      {
+        "numero": 3,
+        "enunciado": "Ortografia Oficial\nMarque a opção que apresenta todas as palavras acentuadas corretamente, de acordo com o Novo Acordo Ortográfico:",
+        "alternativas": {
+          "a": "Ideía, jibóia, vôo.",
+          "b": "Ideia, jiboia, voo.",
+          "c": "Idéia, jibóia, vôo.",
+          "d": "Ideia, jibóia, voô.",
+          "e": "Ídeia, jiboia, vôo."
+        },
+        "resposta_correta": "b"
+      },
+      {
+        "numero": 4,
+        "enunciado": "Semântica\nAssinale a alternativa que apresenta um par de palavras homônimas:",
+        "alternativas": {
+          "a": "Cela (quarto) - Sela (de montar).",
+          "b": "Concerto (apresentação musical) - Conserto (reparo).",
+          "c": "Descrição (ato de descrever) - Discrição (qualidade de ser discreto).",
+          "d": "Sessão (período de tempo) - Cessão (ato de ceder).",
+          "e": "Censo (contagem da população) - Senso (juízo)."
+        },
+        "resposta_correta": "b"
+      },
+      {
+        "numero": 5,
+        "enunciado": "Classes de Palavras\nNo trecho “Os primeiros colocados receberão seus prêmios em breve”, a palavra “seus” é um:",
+        "alternativas": {
+          "a": "Substantivo.",
+          "b": "Artigo.",
+          "c": "Numeral.",
+          "d": "Adjetivo.",
+          "e": "Pronome."
+        },
+        "resposta_correta": "e"
+      },
+      {
+        "numero": 6,
+        "enunciado": "Estrutura Morfossintática\nA frase \"Quando ele chegou, todos já haviam saído.\" exemplifica uma relação de:",
+        "alternativas": {
+          "a": "Coordenação.",
+          "b": "Subordinação.",
+          "c": "Adição.",
+          "d": "Oposição.",
+          "e": "Alternância."
+        },
+        "resposta_correta": "b"
+      },
+      {
+        "numero": 7,
+        "enunciado": "Estilística\nIdentifique a figura de linguagem presente na frase: “O rio, no silêncio da noite, cantava sua antiga canção.”",
+        "alternativas": {
+          "a": "Metáfora.",
+          "b": "Personificação.",
+          "c": "Metonímia.",
+          "d": "Antítese.",
+          "e": "Aliteração."
+        },
+        "resposta_correta": "b"
+      }
+    ]
+  }
+  

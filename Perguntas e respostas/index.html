@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Jogo de Perguntas e Respostas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="knowledge-areas">
+        <button class="area-btn" data-area="informatica">Informática</button>
+        <button class="area-btn" data-area="portugues">Português</button>
+        <button class="area-btn" data-area="conhecimentosped">Conhecimentos Pedagógicos</button>
+        <button class="area-btn" data-area="conhecimentosloc">Conhecimentos em Lógica</button>
+        <button class="area-btn" data-area="legislacao">Legislação</button>
+    </div>
+    <div id="quiz-container" style="display: none;">
+        <div id="question"></div>
+        <ul id="answer-options"></ul>
+        <div id="feedback"></div>
+        <button id="next-question" style="display: none;">Próxima Pergunta</button>
+        <div id="name-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2>Informe seu nome para o ranking:</h2>
+                <input type="text" id="player-name" name="player-name">
+                <button id="submit-name">Enviar</button>
+            </div>
+        </div>
+        <button id="start-over" style="display: none;">Início</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

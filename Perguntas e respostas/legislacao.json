@@ -1,0 +1,60 @@
+{
+    "legislacao_ensino": [
+      {
+        "titulo": "Lei de Diretrizes e Bases da Educação Nacional (LDB 9.394/96)",
+        "enunciado": "A Lei de Diretrizes e Bases da Educação Nacional (LDB 9.394/96) estabelece que:",
+        "opcoes": {
+          "A": "O ensino será ministrado com base na exclusão e na diferenciação entre os estudantes.",
+          "B": "A educação básica tem por finalidade desenvolver o educando, assegurando sua formação cidadã e sua qualificação para o trabalho.",
+          "C": "A educação superior deve ser acessível apenas a uma elite intelectual.",
+          "D": "A educação física é opcional em todas as etapas e modalidades da educação básica."
+        },
+        "resposta_correta": "B"
+      },
+      {
+        "titulo": "Referencial Curricular Nacional para Anos Iniciais do Ensino Fundamental",
+        "enunciado": "O Referencial Curricular Nacional para os Anos Iniciais do Ensino Fundamental enfatiza:",
+        "opcoes": {
+          "A": "A padronização rígida do currículo em todo o território nacional, sem considerar as diversidades regionais e culturais.",
+          "B": "O desenvolvimento de competências e habilidades que incluem o saber, o fazer, o conviver e o ser.",
+          "C": "A exclusão de conteúdos relacionados às artes, à cultura e à educação física, focando exclusivamente em matemática e língua portuguesa.",
+          "D": "A avaliação como um processo punitivo, que visa classificar os alunos por desempenho."
+        },
+        "resposta_correta": "B"
+      },
+      {
+        "titulo": "Constituição Federal de 1988, Capítulo III, Seção I – Da Educação, da Cultura e do Desporto",
+        "enunciado": "Segundo a Constituição Federal de 1988, é correto afirmar que:",
+        "opcoes": {
+          "A": "A educação é dever exclusivo do Estado, não cabendo à família ou à sociedade participarem do processo educacional.",
+          "B": "O ensino será ministrado com base nos princípios de liberdade e nos ideais de solidariedade humana.",
+          "C": "O acesso ao ensino obrigatório e gratuito é um direito subjetivo, podendo ser limitado por critérios de renda e capacidade intelectual.",
+          "D": "A valorização dos profissionais da educação não é considerada um princípio para o ensino."
+        },
+        "resposta_correta": "B"
+      },
+      {
+        "titulo": "LDB 9.394/96 e seus Dispositivos Legais Complementares",
+        "enunciado": "De acordo com a LDB, a educação escolar compõe-se de:",
+        "opcoes": {
+          "A": "Educação básica, exclusivamente, sem a necessidade de oferta de educação infantil.",
+          "B": "Educação básica, formada pela educação infantil, ensino fundamental e ensino médio, e educação superior.",
+          "C": "Somente ensino fundamental e ensino médio, sendo a educação infantil considerada uma etapa opcional.",
+          "D": "Apenas a educação superior, com as demais etapas sendo consideradas preparatórias e não obrigatórias."
+        },
+        "resposta_correta": "B"
+      },
+      {
+        "titulo": "Autonomia e Gestão Democrática do Ensino Público",
+        "enunciado": "A LDB 9.394/96 prevê que:",
+        "opcoes": {
+          "A": "As instituições de ensino devem seguir diretrizes e bases uniformes, sem espaço para autonomia ou gestão democrática.",
+          "B": "A gestão democrática do ensino público é realizada no âmbito das respectivas instituições, promovendo a participação da comunidade escolar.",
+          "C": "A autonomia das escolas é limitada exclusivamente à gestão financeira, sem influenciar aspectos pedagógicos.",
+          "D": "O princípio da gestão democrática aplica-se apenas ao ensino superior, sendo irrelevante para a educação básica."
+        },
+        "resposta_correta": "B"
+      }
+    ]
+  }
+  

@@ -1,0 +1,60 @@
+{
+    "conhecimentos_locais_parnaiba": [
+      {
+        "titulo": "História de Parnaíba",
+        "enunciado": "Qual evento histórico é considerado crucial para o desenvolvimento inicial de Parnaíba?",
+        "opcoes": {
+          "A": "A descoberta de ouro nos arredores do município.",
+          "B": "A chegada de colonizadores europeus e a consequente exploração da terra.",
+          "C": "A instalação do primeiro porto, que impulsionou o comércio local e regional.",
+          "D": "A fundação de uma das primeiras universidades do Brasil na cidade."
+        },
+        "resposta_correta": "C"
+      },
+      {
+        "titulo": "Geografia de Parnaíba",
+        "enunciado": "O que destaca a geografia de Parnaíba em relação a outros municípios do Piauí?",
+        "opcoes": {
+          "A": "Sua localização em uma região montanhosa, propícia à prática de esportes radicais.",
+          "B": "A presença do Delta do Parnaíba, único em mar aberto das Américas.",
+          "C": "Sua posição como o ponto mais meridional do estado do Piauí.",
+          "D": "A existência de vastas reservas de petróleo e gás natural."
+        },
+        "resposta_correta": "B"
+      },
+      {
+        "titulo": "Cultura de Parnaíba",
+        "enunciado": "Qual aspecto cultural é fortemente associado a Parnaíba e atrai turistas para a região?",
+        "opcoes": {
+          "A": "A realização anual do maior carnaval fora de época do Brasil.",
+          "B": "Os festivais de música que celebram gêneros tradicionais brasileiros.",
+          "C": "As feiras de artesanato que destacam o trabalho dos artesãos locais.",
+          "D": "A culinária local, especialmente os pratos à base de frutos do mar."
+        },
+        "resposta_correta": "D"
+      },
+      {
+        "titulo": "Economia de Parnaíba",
+        "enunciado": "A economia de Parnaíba é marcada por qual das seguintes características?",
+        "opcoes": {
+          "A": "A forte dependência da indústria pesada e da mineração.",
+          "B": "A predominância da agricultura de subsistência.",
+          "C": "O desenvolvimento do turismo, especialmente relacionado ao ecoturismo e aventura.",
+          "D": "A liderança na produção tecnológica avançada no estado do Piauí."
+        },
+        "resposta_correta": "C"
+      },
+      {
+        "titulo": "Aspectos Sociais de Parnaíba",
+        "enunciado": "Como a estrutura social de Parnaíba é influenciada por sua história e geografia?",
+        "opcoes": {
+          "A": "Pela concentração de populações indígenas que vivem isoladas do restante da sociedade.",
+          "B": "Pela diversidade cultural resultante da mistura de indígenas, africanos e europeus ao longo da história.",
+          "C": "Por uma sociedade altamente estratificada com pouca mobilidade social.",
+          "D": "Pelo isolamento cultural e econômico em relação ao restante do estado."
+        },
+        "resposta_correta": "B"
+      }
+    ]
+  }
+  

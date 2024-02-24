@@ -1,0 +1,92 @@
+{
+  "conceitos_informatica": [
+    {
+      "titulo": "Conceitos básicos de informática",
+      "enunciado": "Qual das seguintes opções é considerada um dispositivo de entrada?",
+      "opcoes": {
+        "a": "Monitor",
+        "b": "Impressora",
+        "c": "Teclado",
+        "d": "Alto-falante"
+      },
+      "resposta_correta": "c"
+    },
+    {
+      "titulo": "Componentes básicos de um computador",
+      "enunciado": "Qual componente é essencial para o funcionamento do software em um computador?",
+      "opcoes": {
+        "a": "Mouse",
+        "b": "Hardware",
+        "c": "Monitor",
+        "d": "Impressora"
+      },
+      "resposta_correta": "b"
+    },
+    {
+      "titulo": "Arquitetura básica de computadores e dispositivos periféricos",
+      "enunciado": "Qual dos seguintes é considerado um dispositivo periférico?",
+      "opcoes": {
+        "a": "CPU",
+        "b": "RAM",
+        "c": "Scanner",
+        "d": "Chipset"
+      },
+      "resposta_correta": "c"
+    },
+    {
+      "titulo": "Dispositivos de armazenamento e cópia de segurança",
+      "enunciado": "Qual dos seguintes dispositivos é mais comumente usado para realizar cópias de segurança (backup)?",
+      "opcoes": {
+        "a": "Teclado",
+        "b": "Disco rígido externo",
+        "c": "Monitor",
+        "d": "Mouse"
+      },
+      "resposta_correta": "b"
+    },
+    {
+      "titulo": "Noções do sistema operacional Windows",
+      "enunciado": "No Windows 10, qual recurso permite a organização de janelas lado a lado na mesma tela com facilidade?",
+      "opcoes": {
+        "a": "Cortana",
+        "b": "Aero Shake",
+        "c": "Snap Assist",
+        "d": "Task View"
+      },
+      "resposta_correta": "c"
+    },
+    {
+      "titulo": "Conceitos de organização e gerenciamento de arquivos e pastas",
+      "enunciado": "No Windows, qual é a função da pasta 'Documentos'?",
+      "opcoes": {
+        "a": "Armazenar os arquivos temporários do sistema",
+        "b": "Guardar programas instalados",
+        "c": "Organizar documentos pessoais do usuário",
+        "d": "Armazenar arquivos de configuração do sistema"
+      },
+      "resposta_correta": "c"
+    },
+    {
+      "titulo": "Conceitos básicos de internet",
+      "enunciado": "O que é um navegador web?",
+      "opcoes": {
+        "a": "Um dispositivo para conectar seu computador à internet",
+        "b": "Um programa que permite acessar e visualizar páginas na internet",
+        "c": "Um serviço de e-mail",
+        "d": "Um tipo de vírus de computador"
+      },
+      "resposta_correta": "b"
+    },
+    {
+      "titulo": "Edição de textos, planilhas e demais documentos utilizando o Microsoft 365 (Office)",
+      "enunciado": "No Microsoft Word, qual recurso você usaria para corrigir automaticamente palavras comuns digitadas incorretamente?",
+      "opcoes": {
+        "a": "AutoFormatação",
+        "b": "Corretor Ortográfico",
+        "c": "AutoCorreção",
+        "d": "Localizar e Substituir"
+      },
+      "resposta_correta": "c"
+    }
+  ]
+}

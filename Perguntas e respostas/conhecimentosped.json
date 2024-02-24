@@ -1,0 +1,70 @@
+{
+    "questoes_pedagogicas": [
+      {
+        "numero": 1,
+        "topico": "Aspectos Filosóficos da Educação",
+        "enunciado": "Qual das seguintes correntes filosóficas enfatiza a importância do ambiente no desenvolvimento humano e critica a educação tradicional por sua rigidez e autoritarismo?",
+        "opcoes": {
+          "a": "Iluminismo",
+          "b": "Positivismo",
+          "c": "Escolanovismo",
+          "d": "Fenomenológico-existencialista",
+          "e": "Crítico"
+        },
+        "resposta_correta": "c"
+      },
+      {
+        "numero": 2,
+        "topico": "Tendências Pedagógicas",
+        "enunciado": "As tendências pedagógicas progressistas diferenciam-se das liberais principalmente por:",
+        "opcoes": {
+          "a": "Valorizar o acúmulo de conteúdo em detrimento das experiências práticas.",
+          "b": "Priorizar a autonomia do aluno e a transformação social.",
+          "c": "Focar exclusivamente no desenvolvimento cognitivo, ignorando o aspecto afetivo.",
+          "d": "Adotar métodos de ensino tradicionais, com aulas expositivas e memorização.",
+          "e": "Enfatizar a competição entre os alunos como forma de estimular o aprendizado."
+        },
+        "resposta_correta": "b"
+      },
+      {
+        "numero": 3,
+        "topico": "Aspectos Sociológicos da Educação",
+        "enunciado": "A relação entre escola, família e comunidade é fundamental para:",
+        "opcoes": {
+          "a": "A manutenção das estruturas sociais existentes sem promover mudanças significativas.",
+          "b": "O controle social e a perpetuação das desigualdades.",
+          "c": "A promoção de uma educação voltada exclusivamente para o mercado de trabalho.",
+          "d": "A construção de uma educação que promova a transformação social e diminuição das desigualdades.",
+          "e": "O fortalecimento da autoridade docente em detrimento da participação dos alunos."
+        },
+        "resposta_correta": "d"
+      },
+      {
+        "numero": 4,
+        "topico": "Aspectos Psicológicos da Educação",
+        "enunciado": "Segundo as diferentes abordagens sobre a relação desenvolvimento/aprendizagem, Vygotsky defende que:",
+        "opcoes": {
+          "a": "O desenvolvimento cognitivo é determinado geneticamente e a aprendizagem não altera esse processo.",
+          "b": "A aprendizagem é um processo secundário que segue o desenvolvimento cognitivo.",
+          "c": "O desenvolvimento cognitivo acontece independentemente das experiências de aprendizagem.",
+          "d": "A aprendizagem precede e promove o desenvolvimento cognitivo através da interação social.",
+          "e": "O desenvolvimento cognitivo e a aprendizagem são processos desconectados e acontecem em paralelo."
+        },
+        "resposta_correta": "d"
+      },
+      {
+        "numero": 5,
+        "topico": "A Função Social do Ensino",
+        "enunciado": "A função social do ensino, conforme proposto por tendências pedagógicas progressistas, envolve:",
+        "opcoes": {
+          "a": "O ensino de conteúdos descontextualizados da realidade dos alunos.",
+          "b": "A preparação dos alunos exclusivamente para as demandas do mercado de trabalho.",
+          "c": "A promoção de uma educação que visa à reprodução das estruturas sociais vigentes.",
+          "d": "O desenvolvimento de habilidades e competências voltadas para a transformação social.",
+          "e": "A ênfase na transmissão de conhecimentos sem questionamento crítico."
+        },
+        "resposta_correta": "d"
+      }
+    ]
+  }
+  
