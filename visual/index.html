@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo de Perguntas e Respostas</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Tela de Boas-Vindas -->
+    <div id="welcomeScreen" class="container screen">
+        <h2>Bem-vindo ao Jogo de Perguntas!</h2>
+        <button id="startButton">Começar</button>
+    </div>
+
+    <!-- Tela do Jogo -->
+    <div id="gameScreen" class="container screen" style="display:none;">
+        <header>
+            <h1>Jogo de Perguntas e Respostas</h1>
+        </header>
+        <section id="categorySelector">
+            <label for="changeCategory">Escolha a Categoria:</label>
+            <select id="changeCategory">
+                <option value="portugues">Português</option>
+                <option value="informatica">Informática</option>
+                <option value="legislacao">Legislação</option>
+                <option value="conhecimentoped">Conhecimento Pedagógico</option>
+                <option value="conhecimentoloc">Conhecimento Local</option>
+            </select>
+        </section>
+        <main id="game">
+            <!-- Contador de Perguntas -->
+            <div id="questionCounter"></div>
+            <!-- Temporizador -->
+            <div id="timer"></div>
+            <div id="question" class="question">Pergunta aparecerá aqui</div>
+            <div id="choices" class="choices">Opções de resposta</div>
+            <button id="submit">Próxima</button>
+        </main>
+        <footer id="result" class="result">Resultado</footer>
+    </div>
+
+    <!-- Tela Final do Jogo -->
+    <div id="endScreen" class="container screen" style="display:none;">
+        <h2>Quiz Concluído!</h2>
+        <div id="finalScore">Seu Score: </div>
+        <button id="restartButton">Jogar Novamente</button>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

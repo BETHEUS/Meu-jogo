@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Legislação de Ensino: Diretrizes, Parâmetros, Medidas e Dispositivos Legais: A Lei de Diretrizes e Bases da Educação Nacional (LDB 9.394/96) estabelece que:",
+        "choices": [
+            "A) O ensino será ministrado com base na exclusão e na diferenciação entre os estudantes.",
+            "B) A educação básica tem por finalidade desenvolver o educando, assegurando sua formação cidadã e sua qualificação para o trabalho.",
+            "C) A educação superior deve ser acessível apenas a uma elite intelectual.",
+            "D) A educação física é opcional em todas as etapas e modalidades da educação básica."
+        ],
+        "answer": "B) A educação básica tem por finalidade desenvolver o educando, assegurando sua formação cidadã e sua qualificação para o trabalho."
+    },
+    {
+        "question": "Referencial Curricular Nacional para Anos Iniciais do Ensino Fundamental: O Referencial Curricular Nacional para os Anos Iniciais do Ensino Fundamental enfatiza:",
+        "choices": [
+            "A) A padronização rígida do currículo em todo o território nacional, sem considerar as diversidades regionais e culturais.",
+            "B) O desenvolvimento de competências e habilidades que incluem o saber, o fazer, o conviver e o ser.",
+            "C) A exclusão de conteúdos relacionados às artes, à cultura e à educação física, focando exclusivamente em matemática e língua portuguesa.",
+            "D) A avaliação como um processo punitivo, que visa classificar os alunos por desempenho."
+        ],
+        "answer": "B) O desenvolvimento de competências e habilidades que incluem o saber, o fazer, o conviver e o ser."
+    }
+]

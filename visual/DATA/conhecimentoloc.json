@@ -1,0 +1,22 @@
+[
+    {
+        "question": "História de Parnaíba: Qual evento histórico é considerado crucial para o desenvolvimento inicial de Parnaíba?",
+        "choices": [
+            "A) A descoberta de ouro nos arredores do município.",
+            "B) A chegada de colonizadores europeus e a consequente exploração da terra.",
+            "C) A instalação do primeiro porto, que impulsionou o comércio local e regional.",
+            "D) A fundação de uma das primeiras universidades do Brasil na cidade."
+        ],
+        "answer": "C) A instalação do primeiro porto, que impulsionou o comércio local e regional."
+    },
+    {
+        "question": "Geografia de Parnaíba: O que destaca a geografia de Parnaíba em relação a outros municípios do Piauí?",
+        "choices": [
+            "A) Sua localização em uma região montanhosa, propícia à prática de esportes radicais.",
+            "B) A presença do Delta do Parnaíba, único em mar aberto das Américas.",
+            "C) Sua posição como o ponto mais meridional do estado do Piauí.",
+            "D) A existência de vastas reservas de petróleo e gás natural."
+        ],
+        "answer": "B) A presença do Delta do Parnaíba, único em mar aberto das Américas."
+    }
+]

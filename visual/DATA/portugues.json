@@ -1,0 +1,109 @@
+[
+    {
+        "question": "Compreensão e Interpretação de Textos: O texto lido é principalmente:",
+        "text": "O fenômeno da chuva é essencial para a manutenção da vida na Terra. Além de prover a água necessária para a sobrevivência de plantas, animais e seres humanos, contribui significativamente para a regulação climática global.",
+        "choices": [
+            "a) Descritivo",
+            "b) Narrativo",
+            "c) Injuntivo",
+            "d) Argumentativo",
+            "e) Expositivo"
+        ],
+        "answer": "e) Expositivo"
+    },
+    {
+        "question": "Recursos de Textualidade: Qual das alternativas a seguir NÃO é considerada um recurso coesivo?",
+        "choices": [
+            "a) Conjunções",
+            "b) Sinônimos",
+            "c) Antônimos",
+            "d) Citações",
+            "e) Pronomes"
+        ],
+        "answer": "d) Citações"
+    },
+    {
+        "question": "Ortografia Oficial",
+        "text": "Marque a opção que apresenta todas as palavras acentuadas corretamente, de acordo com o Novo Acordo Ortográfico.",
+        "choices": [ 
+            "a) Ideía, jibóia, vôo.",
+            "b) Ideia, jiboia, voo.",
+            "c) Idéia, jibóia, vôo.",
+            "d) Ideia, jibóia, voô.",
+            "e) Ídeia, jiboia, vôo."
+        ],
+        "answer": "b) Ideia, jiboia, voo."
+    },
+    {
+        "question": "Semântica",
+        "text": "Assinale a alternativa que apresenta um par de palavras homônimas:",
+        "choices": [
+            "a) Cela (quarto) - Sela (de montar).",
+            "b) Concerto (apresentação musical) - Conserto (reparo).",
+            "c) Descrição (ato de descrever) - Discrição (qualidade de ser discreto).",
+            "d) Sessão (período de tempo) - Cessão (ato de ceder).",
+            "e) Censo (contagem da população) - Senso (juízo)."
+        ],
+        "answer": "b) Concerto (apresentação musical) - Conserto (reparo)."
+    },
+    {
+        "question": "Classes de Palavras",
+        "text": "No trecho “Os primeiros colocados receberão seus prêmios em breve”, a palavra “seus” é um:",
+        "choices": [
+            "a) Substantivo.",
+            "b) Artigo.",
+            "c) Numeral.",
+            "d) Adjetivo.",
+            "e) Pronome."
+        ],
+        "answer": "b) Artigo."
+    },
+    {
+        "question": "Estrutura Morfossintática",
+        "text": "A frase “Quando ele chegou, todos ja haviam saído.” exemplifica uma relação de:",
+        "choices": [
+            "a) Coordenação",
+            "b) Subordinação",
+            "c) Adição",
+            "d) Oposição",
+            "e) Alternância"
+        ],
+        "answer": "b) Subordinação"
+    },
+    {
+        "question": "Estilística",
+        "text": "Identifique a figura de linguagem presente na frase: “O rio, no silêncio da noite, cantava sua antiga canção.” ",
+        "choices": [
+            "a) Metáfora.",
+            "b) Personificação.",
+            "c) Metanímia.",
+            "d) Antítese.",
+            "e) Aliteração."
+        ],
+        "answer": "b) Personificação."
+    },
+    {
+        "question": "Interpretação de Texto",
+        "text": "Um editorial de jornal visa primordialmente:",
+        "choices": [
+            "a) Contar uma história baseada em fatos reais.",
+            "b) Convencer o leitor sobre uma determinada opinião.",
+            "c) Descrever detalhadamente um evento recente.",
+            "d) Instruir o leitor sobre como realizar determinadas tarefas.",
+            "e) Relatar de forma imparcial os acontecimentos."
+        ],
+        "answer": "b) Convencer o leitor sobre uma determinada opinião."
+    },
+    {
+        "question": "Coesão e Coerência",
+        "text": "A expresão “dito isso” e um exemplo de que tipo de recurso coesivo?",
+        "choices": [
+            "a) Conexão.",
+            "b) Referência.",
+            "c) Substituição.",
+            "d) Elipse.",
+            "e) Enumeração."
+        ],
+        "answer": "b) Referência."
+    }
+]

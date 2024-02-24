@@ -1,0 +1,25 @@
+[
+    {
+        "question": "Aspectos Filosóficos da Educação: Qual das seguintes correntes filosóficas enfatiza a importância do ambiente no desenvolvimento humano e critica a educação tradicional por sua rigidez e autoritarismo?",
+        "choices": [
+            "a) Iluminismo",
+            "b) Positivismo",
+            "c) Escolanovismo",
+            "d) Fenomenológico-existencialista",
+            "e) Crítico"
+        ],
+        "answer": "c) Escolanovismo"
+    },
+    {
+        "question": "Tendências Pedagógicas: As tendências pedagógicas progressistas diferenciam-se das liberais principalmente por:",
+        "choices": [
+            "a) Valorizar o acúmulo de conteúdo em detrimento das experiências práticas.",
+            "b) Priorizar a autonomia do aluno e a transformação social.",
+            "c) Focar exclusivamente no desenvolvimento cognitivo, ignorando o aspecto afetivo.",
+            "d) Adotar métodos de ensino tradicionais, com aulas expositivas e memorização.",
+            "e) Enfatizar a competição entre os alunos como forma de estimular o aprendizado."
+        ],
+        "answer": "b) Priorizar a autonomia do aluno e a transformação social."
+    }
+]
+

@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Estilos Gerais */
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, #00696D, #01B4BB);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* Container Principal */
+.container {
+    padding: 40px;
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+    box-sizing: border-box;
+    /* Removido o fundo branco para mostrar o gradiente do fundo da página */
+    border-radius: 20px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Título do Jogo e Botões */
+header h1, #startButton, #restartButton, #submit, select {
+    background-color: #01B4BB; /* Cor de fundo dos botões e seleção */
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    color: white; /* Letras brancas */
+    padding: 15px 30px;
+    font-size: 1.2em;
+    transition: all 0.3s ease-in-out;
+    margin: 20px auto;
+    cursor: pointer;
+}
+
+#startButton:hover, #restartButton:hover, #submit:hover, select:hover {
+    background-color: #66bb6a;
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Tela do Quiz e Tela Final do Quiz */
+#gameScreen, #endScreen {
+    background-color: #028186; /* Fundo sólido para foco na atividade */
+    color: white; /* Letras brancas para contraste */
+}
+
+/* Opções de Resposta */
+.choice {
+    background-color: #01B4BB; /* Fundo das opções de resposta */
+    color: white; /* Letras brancas para legibilidade */
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.choice:hover {
+    background-color: #8A2675;
+    transform: translateY(-2px);
+}
+
+/* Resultado */
+.result, .correct, .incorrect {
+    color: white; /* Letras brancas para resultados */
+}
+
+.correct {
+    animation: pulseGreen 1s infinite;
+}
+
+.incorrect {
+    animation: pulseRed 1s infinite;
+}
+
+@keyframes pulseGreen {
+    0%, 100% { color: #4CAF50; }
+    50% { color: #67e567; }
+}
+
+@keyframes pulseRed {
+    0%, 100% { color: #f44336; }
+    50% { color: #ff6656; }
+}

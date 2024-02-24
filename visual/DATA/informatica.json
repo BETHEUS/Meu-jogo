@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Conceitos básicos de informática: Qual das seguintes opções é considerada um dispositivo de entrada?",
+        "choices": [
+            "a) Monitor",
+            "b) Impressora",
+            "c) Teclado",
+            "d) Alto-falante"
+        ],
+        "answer": "c) Teclado"
+    },
+    {
+        "question": "Componentes básicos de um computador: Qual componente é essencial para o funcionamento do software em um computador?",
+        "choices": [
+            "a) Mouse",
+            "b) Hardware",
+            "c) Monitor",
+            "d) Impressora"
+        ],
+        "answer": "b) Hardware"
+    }
+]
